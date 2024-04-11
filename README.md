@@ -7,6 +7,10 @@ I added an editable username feature, implementing a particle system, integratin
 
 https://github.com/MANISH-SAHANI/SlotGames-Assignmentt/assets/91081774/54480a71-4d87-48ea-8889-e796fde3f4e4
 
+<h2> Do you want to download the game?💫</h2>
+
+You can easily download the .apk file included above or you can download it from the release section. Once you have downloaded the game, you can unzip it and run ready to play!
+
 
 # Download Instructions:
 1) Make sure to Clone the Repo via Git or SSH; do NOT simply download the zip because I'm using Git LFS for the image and audio files.
